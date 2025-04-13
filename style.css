@@ -80,7 +80,7 @@ select {
     background-position-x: calc(100% - 20px);
     background-position-y: 20px;
   }
-.watch-link{
+.contact-link{
     position: fixed;
     bottom: 10%;
     right: 3%;
